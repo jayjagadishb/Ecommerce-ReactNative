@@ -29,6 +29,6 @@ Follow these steps to set up and run the project on your local machine:
 1. **Clone the repository**
 
    ```sh
-   git clone https://github.com/yourusername/shopkaro.git
-   cd shopkaro
+   git clone https://github.com/jayjagadishb/Ecommerce-ReactNative.git
+   
 
