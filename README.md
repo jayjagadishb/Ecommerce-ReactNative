@@ -30,10 +30,12 @@ Follow these steps to set up and run the project on your local machine:
 
    ```sh
    git clone https://github.com/jayjagadishb/Ecommerce-ReactNative.git
-2. Install dependencies
-    npm install
-3. Start the project
-    npm start
+2. **Install dependencies**
+    ```sh
+   npm install
+3. **Start the project**
+     ```sh
+   npm start
 
 
 ## Screenshots
